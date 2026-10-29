@@ -1,0 +1,19 @@
+{
+    "enabled": true,
+
+    "mode": "tcp",
+
+    "matrix_ip": "192.168.125.120",
+
+    "image": {
+        "port": 51237,
+        "format": "bmp",
+        "header_hex": "02",
+        "terminator_hex": "0D0A"
+    },
+
+    "connection": {
+        "reconnect_delay_seconds": 1.0,
+        "socket_timeout_seconds": 2.0
+    }
+}

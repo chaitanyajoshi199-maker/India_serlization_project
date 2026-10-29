@@ -1,0 +1,10 @@
+# Core Computer Vision & Matrix Math
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+
+# 2D Barcode / QR Decoding & Corner Localization
+zxing-cpp>=2.2.0
+
+# Lightweight High-Speed OCR Engine (CPU ONNX Runtime)
+rapidocr-onnxruntime>=1.2.0
+onnxruntime>=1.16.0
